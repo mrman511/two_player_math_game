@@ -10,5 +10,5 @@
 #### game loop
 #### score
 #### player turn
-#### questioin generator
+#### question generator
 #### check answer

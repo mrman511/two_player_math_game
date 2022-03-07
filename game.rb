@@ -1,3 +1,5 @@
+# Pair programming by Paul Bodnar and Jordan Benson
+
 class Game
   def initialize
     @player1 = Player.new(1)
